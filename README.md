@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Coding apprentice at Road to Hire learning Software Engineering, excited to explore new technologies, build meaningful applications, and further my learning. <br>
+Hello! I am a coding apprentice at Road to Hire furthering my technical skills using front-end technologies such as React, HTML, CSS. I am also well-versed in back-end technologies such as creating servers utilizing Node.js & Express.js as well as database technologies like SQL and mySQL. I am passionate in building robust, innovative, and meaningful applications. <br>
 
 
 ## 🌐 Socials:
